@@ -12,7 +12,7 @@ Here are some screenshots to showcase what the app itself looks like.
 
 #### Main Menu
 What the users sees on launch of the application
-![Main Menu](./pics/foodhunt-1.png)
+![Main Menu](../master/pics/foodhunt-1.png)
 
 #### Questionnaire Form
 When the user wishes to search with certain criteria, this is the form that is displayed
