@@ -12,20 +12,20 @@ Here are some screenshots to showcase what the app itself looks like.
 
 #### Main Menu
 What the users sees on launch of the application
-![Main Menu](../master/pics/foodhunt-1.PNG)
+![Main Menu](Pics/foodhunt-1.PNG)
 
 #### Questionnaire Form
 When the user wishes to search with certain criteria, this is the form that is displayed
-![Questionnaire](pics/foodhunt-2.PNG)
+![Questionnaire](Pics/foodhunt-2.PNG)
 
 #### Results
 The view the user sees when a restaurant is randomly selected, abiding by any given criteria
-![Results](pics/foodhunt-3.PNG)
+![Results](Pics/foodhunt-3.PNG)
 
 #### Error
 If there is no restaurant able to be selected, possibly because no valid results are returned from the Yelp API, then this screen shows up (yes, I know that "error" is spelled incorrectly here but I liked the picture anyway)
-![Error](pics/foodhunt-4.PNG)
+![Error](Pics/foodhunt-4.PNG)
 
 #### Maps View
 If the user finds a restaurant, they can opt to open the location in maps. This gives directions from the users current location to the destination.
-![Maps](pics/foodhunt-5.PNG)
+![Maps](Pics/foodhunt-5.PNG)
